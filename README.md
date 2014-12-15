@@ -1,4 +1,5 @@
 hangman
 =======
 
-This is a simple program to play Hangman, implemented in Ruby.
+This is a simple program to play Hangman between two players, human or
+computer.
